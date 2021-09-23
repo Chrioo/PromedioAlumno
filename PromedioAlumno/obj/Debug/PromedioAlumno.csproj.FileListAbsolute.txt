@@ -1,0 +1,11 @@
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.exe.config
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.exe
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\bin\Debug\PromedioAlumno.pdb
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.Form1.resources
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.Form2.resources
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.Properties.Resources.resources
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.exe
+C:\Users\Cristian\source\repos\PromedioAlumno\PromedioAlumno\obj\Debug\PromedioAlumno.pdb
